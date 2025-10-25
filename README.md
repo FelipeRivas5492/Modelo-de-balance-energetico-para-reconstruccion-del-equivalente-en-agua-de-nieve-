@@ -29,13 +29,17 @@
   <img src="https://raw.githubusercontent.com/FelipeRivas5492/Modelo-de-balance-energetico-para-reconstruccion-del-equivalente-en-agua-de-nieve-/main/balance.png" alt="Figura 1 - fig1">
 <div align="center">
  
-<p> align="justify">
+<p align="justify">
 <strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. Este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento para las condiciones particulares de la estación. 
 </p>
 
 
+<p align="justify">
+4. Notar que al no considerar flujo energetico por precipitacion este evento no se ve reflejado en los resultados de los balances, aunque haya un aumento en el SWE que observa la estacion. Notar tambien la oscilacion del SWE observado, presumiblemente por las condiciones adversas de la estacion y la variacion de la temperatura y presion atmosferica a estas altitudes. En cuanto a los resultados oscilantes del balance de energia esto es porque se usaron los datos cada una hora y existe una oscilacion producto de la radiacion incidente entre el dia y la noche.
+</p>
 
 
+<p align="justify"> 4.  Notar que al no considerar flujo energetico por precipitación este evento no se ve reflejado en los resultados de los balances, aunque haya un aumento en el SWE observado por la estación. Notar también la oscilación del SWE observado, presumiblemente debido a las condiciones adversas de la estación y a la variación de la temperatura y la presión atmosférica a estas altitudes. En cuanto a los resultados oscilantes del balance de energía, esto se debe a que se utilizaron datos horarios, lo que genera una oscilación producto de la radiación incidente entre el día y la noche. </p>
 
 
 
