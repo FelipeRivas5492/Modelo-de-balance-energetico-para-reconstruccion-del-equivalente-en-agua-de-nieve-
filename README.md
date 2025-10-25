@@ -28,7 +28,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/FelipeRivas5492/Modelo-de-balance-energetico-para-reconstruccion-del-equivalente-en-agua-de-nieve-/main/balance.png" alt="Figura 1 - fig1">
 <div align="center">
-<p><strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. Este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento para las condiciones particulares de la estación. </p>
+ 
+<p> align="justify">
+<strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. Este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento para las condiciones particulares de la estación. 
+</p>
 
 
 
