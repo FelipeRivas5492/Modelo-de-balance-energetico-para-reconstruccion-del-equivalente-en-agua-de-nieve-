@@ -11,7 +11,7 @@
 </p> 
 
 <p align="justify"> 
-1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del equivalente en agua nieve (SWE). Para este ejemplo no se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona en particular.
+1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del equivalente en agua nieve (SWE). Para este ejemplo no se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona y tiempo analizado en particular.
 </p>
 
 <p align="justify">
