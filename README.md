@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="ithub.com/FelipeRivas5492/Modelo-de-balance-energetico-para-reconstruccion-del-equivalente-en-agua-de-nieve-/main/balance.png" alt="Figura 1 - fig1">
+  <img src="github.com/FelipeRivas5492/Modelo-de-balance-energetico-para-reconstruccion-del-equivalente-en-agua-de-nieve-/main/balance.png" alt="Figura 1 - fig1">
 <div align="center">
  
 <p align="justify">
