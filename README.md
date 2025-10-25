@@ -11,13 +11,12 @@
 </p> 
 
 <p align="justify"> 
-1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del equivalente en agua nieve (SWE). No se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona en particular.
+1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del equivalente en agua nieve (SWE). Para este ejemplo no se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona en particular.
 </p>
 
 <p align="justify">
- 2. Con ello se obtienen los días en los cuales se generó derretimiento. Luego, con información meteorológica de estaciones próximas es posible resolver el balance de energía y considerar que la energía neta luego del balance se transforma en derretimiento. Para ajustar el modelo se consideró la estación Quebrada Larga Cota 3500, cuya altitud es de 3500 m s. n. m. Las fechas de inicio y término del derretimiento se conocen, ya que se tiene los datos observados de la estación.
+ 2. Con lo anterior, se obtienen los días en los cuales se generó derretimiento. Luego, con información meteorológica de estaciones próximas es posible resolver el balance de energía y considerar que la energía neta luego del balance se transforma en derretimiento. Para ajustar el modelo se consideró la estación Quebrada Larga Cota 3500, cuya altitud es de 3500 m s. n. m. Las fechas de inicio y término del derretimiento se conocen, ya que se tiene los datos observados de la estación. Notar que ajustar el modelo depende principalmente de las rugosidades de la temperatura, nieve y la consideracion de flujos turbulentos o no.
 </p> 
-
 
 
 <p align="justify">
