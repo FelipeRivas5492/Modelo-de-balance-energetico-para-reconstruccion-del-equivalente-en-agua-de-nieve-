@@ -30,7 +30,7 @@
 <div align="center">
  
 <p align="justify">
-<strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. Este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento para las condiciones particulares de la estación. 
+<strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. De este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento, para las condiciones locales de la estación. 
 </p>
 
 
