@@ -11,17 +11,26 @@
 </p> 
 
 <p align="justify"> 
-1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve (SCA) es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del SWE. No se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona en particular.
+1. El modelo se basa en el balance de los flujos de energía del manto. La idea central del método es establecer mediante observación satelital o empírica cuándo la cobertura de nieve es cero. Con ello se obtiene el último día de derretimiento del manto, mientras que el primer día de derretimiento corresponde al máximo observado del equivalente en agua nieve (SWE). No se usó el último día de precipitación sólida, ya que fue pocos días antes del último día de derretimiento y no representa el inicio del derretimiento para esta zona en particular.
 </p>
 
 <p align="justify">
  2. Con ello se obtienen los días en los cuales se generó derretimiento. Luego, con información meteorológica de estaciones próximas es posible resolver el balance de energía y considerar que la energía neta luego del balance se transforma en derretimiento. Para ajustar el modelo se consideró la estación Quebrada Larga Cota 3500, cuya altitud es de 3500 m s. n. m. Las fechas de inicio y término del derretimiento se conocen, ya que se tiene los datos observados de la estación.
 </p> 
 
- 
- <p align="justify">
- 3. No se consideran los flujos energéticos entre el manto y el suelo, y entre el manto y la precipitación caída en derretimiento. Se consideraron dos modelos para ilustrar la importancia de la corrección atmosférica en altitud en el balance con respecto al calor latente. En el código R del balance es posible examinar los flujos en detalle.
- </p>
+
+
+<p align="justify">
+3. No se consideran los flujos energéticos entre el manto y el suelo, y entre el manto y la precipitación caída en derretimiento. Se consideraron dos modelos para ilustrar la importancia de la corrección atmosférica en altitud en el balance con respecto al calor latente. En el código R del balance, es posible examinar los flujos en detalle. En la figura 1 se muestran los resultados del modelo para la estación.
+</p>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FelipeRivas5492/Modelo-de-balance-energetico-para-reconstruccion-del-equivalente-en-agua-de-nieve-/main/balance.png" alt="Figura 1 - fig1">
+<div align="center">
+<p><strong>Figura 1</strong>: gráfico derecha: SWE retrospectivo para modelos con y sin corrección atmosférica y SWE observado. Gráficos izquierda: Calor latente con y sin corrección atmosférica y el balance de energía neto. Se observa un cambio en el calor latente y por lo tanto en el balance neto. Este cambio se intepreta que se reconstruye más energía con la corrección atmosférica para el derretimiento para las condiciones particulares de la estación. </p>
+
+
 
 
 
