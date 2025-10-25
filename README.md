@@ -20,7 +20,7 @@
 
 
 <p align="justify">
-3. No se consideran los flujos energéticos entre el manto y el suelo, y entre el manto y la precipitación caída en derretimiento. Se consideraron dos modelos para ilustrar la importancia de la corrección atmosférica en altitud en el balance con respecto al calor latente. En el código R del balance, es posible examinar los flujos en detalle. En la figura 1 se muestran los resultados del modelo para la estación.
+3. No se consideraron los flujos energéticos entre el manto y el suelo, y entre el manto y la precipitación caída en derretimiento. Se consideraron dos modelos para ilustrar la importancia de la corrección atmosférica en altitud en el balance con respecto al calor latente. En el código R del balance, es posible examinar los flujos en detalle. En la <strong>Figura 1</strong> se muestran los resultados del modelo para la estación.
 </p>
 
 
