@@ -15,7 +15,7 @@
 </p>
 
 <p align="justify">
- 2. Con lo anterior, se obtienen los días en los cuales se generó derretimiento. Luego, con información meteorológica de estaciones próximas es posible resolver el balance de energía y considerar que la energía neta luego del balance se transforma en derretimiento. Para ajustar el modelo se consideró la estación Quebrada Larga Cota 3500, cuya altitud es de 3500 m s. n. m. Notar que ajustar el modelo depende principalmente de las rugosidades de la temperatura, nieve y la consideración de flujos turbulentos o no.
+ 2. Con lo anterior, se obtienen los días en los cuales se generó derretimiento. Luego, con información meteorológica de estaciones próximas es posible resolver el balance de energía y considerar que la energía neta luego del balance se transforma en derretimiento. Para ajustar el modelo se consideró la estación Quebrada Larga Cota 3500, cuya altitud es de 3500 m. s. n. m. Notar que ajustar el modelo depende principalmente de las rugosidades de la temperatura, nieve y la consideración de flujos turbulentos o no.
 </p> 
 
 
