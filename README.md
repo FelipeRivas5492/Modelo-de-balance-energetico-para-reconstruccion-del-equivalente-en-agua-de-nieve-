@@ -36,6 +36,8 @@
 <p align="justify"> 4. Notar que al no considerar flujo energético por precipitación este evento no se ve reflejado en los resultados de los balances, aunque haya un aumento en el SWE que observa la estación. Notar también la oscilación del SWE observado, presumiblemente por las condiciones adversas de la estación y la variación de la temperatura y presión atmosférica a estas altitudes. En cuanto a los resultados oscilantes del balance de energía esto es porque se usaron los datos cada una hora y existe una oscilación producto de la radiación incidente entre el día y la noche. </p>
 
 
+https://www.youtube.com/watch?v=-XqttaEICKM
+
 
 
 
